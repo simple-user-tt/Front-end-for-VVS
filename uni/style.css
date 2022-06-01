@@ -1,0 +1,106 @@
+
+/********************** NON-ID CONTAINERS FIRST **************************/
+
+body {           
+      background-color: grey;
+      margin-bottom: 0px;
+      margin-left: 0px;
+      margin-right: 0px;
+      margin-top: 0px;
+      width: 100%; 
+     } 
+
+li {
+              border: 3px solid black;
+              background-color: yellow;
+              display : block;
+              font: 14px Arial;
+              font-size: 20px;
+              height: 20px;
+              margin: 10px;
+              padding: 10px;
+              text-align: center;
+              width : 150px;
+              }
+
+table {
+              width: 800px;
+}
+td {
+    background-color: white;
+    font-size :20px;
+    font-style: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/***********************************************************************/
+
+             a:link { color:black; text-decoration: none;}
+             a:visited {text-decoration: none;}
+             a:hover {font-weight: bolder; text-decoration: none;}
+             a:active {text-decoration: none;}
+             a:focus {font-weight: bolder; text-decoration: none}
+
+#download {
+           position: relative; left: 89%;
+}
+#from {
+         margin-left: 10%;
+}
+#history-his {
+         background: yellow;
+         position: absolute; left: 48%; top: 1%;
+}
+#history-mon {
+         background: white;
+         position: absolute; left: 48%; top: 1%;
+}
+#header-help {
+         color:blue;
+         font-size: 30px;
+         margin-bottom: 10px;
+         margin-left: 10%;
+} 
+#header-his { 
+         margin-left: 9.8%;
+}
+#header-mon { 
+         margin-left: 9.8%;
+}
+#help-button {
+         background-color: #D3D3D3;
+         height: 20px;
+         position: absolute; left: 90%; top: 1%; 
+         width: 20px;
+}
+#info-window {
+         margin-left: 10%;
+}
+#monitor-his {
+         background-color:white;
+         margin-left: 7%;
+}
+#monitor-mon {
+         background-color:yellow;
+         margin-left: 7%;
+}
+#now {
+         color:blue;
+         font-size: 40px;
+         margin-bottom: 10px;
+         margin-left: 25%;
+}
+
+#plate-date {
+           margin-left: 10%;
+           margin-bottom: 1%;
+
+}
+#search {
+           position: absolute; left: 90%;
+
+}
+#to {
+           margin-left: 5%;
+}
